@@ -1,0 +1,7 @@
+Cálculo de precisão e revocação por consulta:
+
+A consulta 'the warming effect' possui precisao = 1.0 e revocacao = 0.7142857142857143
+A consulta 'subsecond rays flare' possui precisao = 0.3 e revocacao = 1.0
+A consulta 'although basicranium arising government' possui precisao = 0.2 e revocacao = 1.0
+A consulta 'i can tell you' possui precisao = 1.0 e revocacao = 0.7692307692307693
+A consulta 'new delhi temperature' possui precisao = 0.2 e revocacao = 1.
